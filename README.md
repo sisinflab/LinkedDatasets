@@ -8,13 +8,14 @@ Datasets statistics are shown in Table.
 
 ![Datasets Statistics](https://github.com/vitowalteranelli/LinkedDatasets/blob/master/imgs/datasetsStatistics.png)
 
+<!-- 
 ## Reference
 If you publish research that uses LinkedDatasets please use:
 ~~~
 This work is currently under review
 ~~~
 The full paper describing the overall approach WILL BE available here [PDF](link)
-
+-->
 
 ## Credits
 This algorithm has been developed by Vito Walter Anelli and Joseph Trotta while working at [SisInf Lab](http://sisinflab.poliba.it) under the supervision of Tommaso Di Noia.  
